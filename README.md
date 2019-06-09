@@ -15,7 +15,11 @@ Gross salary = Basic +HRA +DA
 Net salary = Gross – PF–Tax
 5. The system also provides functions to input the attendance records of employees.
 6. Salary slip is then generated gathering data from both master file and attendance record file.
-<hr>
-![Project Layout](https://github.com/arjunsoota/C-payroll-system/blob/master/project_layout.jpg)
-<hr>
-![Compilation Report](https://github.com/arjunsoota/C-payroll-system/blob/master/compilation_report.jpg)
+
+![Project Layout](https://github.com/arjunsoota/C-payroll-system/blob/master/project_layout.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+![Compilation Report](https://github.com/arjunsoota/C-payroll-system/blob/master/compilation_report.png)
